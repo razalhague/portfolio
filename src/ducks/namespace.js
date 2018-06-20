@@ -1,0 +1,1 @@
+export const ACTION_ROOT_NAMESPACE = 'razalhague/portfolio/';
