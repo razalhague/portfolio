@@ -94,7 +94,7 @@ projects.icosaMapper.description: >
   Tehtiin harjoitustyönä Olio-ohjelmoinnin alkeet opintojaksolle toisen opiskelijan kanssa. Työ jatkui myöhemmin yksin
   harrasteprojektina.
 projects.icosaMapper.contribution: (toisen opiskelijan koodi on enimmäkseen uudelleenkirjoitettu)
-projects.icosaMapper.images.ui: Käyttöliittymä (väliaikaisikonit).
+projects.icosaMapper.images.mainView: Käyttöliittymä (väliaikaisikonit).
 
 # not particularly relevant
 #projects.website.name: Midianian's
