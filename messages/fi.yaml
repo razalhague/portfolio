@@ -1,0 +1,104 @@
+# UI elements
+portfolio.title: Ville Jokelan portfolio
+icon.email: Lähetä sähköposti
+language.fi: Suomi
+language.en: Englanti
+sort.chrono: Kronologinen
+sort.rel: Asiaankuuluvuus
+sort.abc: Aakkosjärjestys
+link.homepage: Kotisivu
+link.repository: Repositorio
+link.playStore: Play Store
+icon.github: GitHub
+icon.gitlab: GitLab
+icon.googlePlay: Google Play
+icon.home: Kotisivu
+icon.link: Vieraile
+icon.language: Kieli
+icon.gallery: Galleria
+icon.image: Kuva
+icon.clearTags: Tyhjennä tagit
+icon.collapseAll: Pienennä kaikki
+icon.expandAll: Suurenna kaikki
+icon.sort: Valitse järjestys
+imageViewer.next: Seuraava
+imageViewer.prev: Edellinen
+imageViewer.close: Sulje kuva
+imageViewer.zoomIn: Loitonna
+imageViewer.zoomOut: Lähennä
+imageViewer.error: Virhe kuvaa ladatessa
+project.type.internship: Työharjoittelu
+project.type.personal: Oma projekti
+project.type.school: Kouluprojekti
+project.contribution.label: Oma osuuteni:
+project.type.label: Tyyppi:
+project.years.label: Vuodet:
+project.tags.label: Tagit:
+project.learned.label: Mitä opin:
+
+
+# Project specific messages
+projects.mairionApi.name: Mairion API
+projects.mairionApi.tagLine: >
+  REST backend tehtävien- ja ajanhallintaverkkopalvelulle, tehty Scalalla, http4s:llä ja Circellä.
+projects.mairionApi.description: >
+  Tehtiin osana opinnäytetyötä, funktionaalisen ohjelmoinnin etujen tutkimiseksi käytännön projektissa. Ohjelmoitu
+  puhtaasti funktionaalisella tyylillä.
+projects.mairionApi.learned: Puhtaasti funktionaalinen ohjelmointi, REST tyylinen suunnittelu.
+projects.mairionApi.links.thesis: Opinnäytetyö
+
+projects.portfolio.name: Portfolio
+projects.portfolio.tagLine: Portfoliosivusto, tehty Reactilla, Reduxilla ja material-ui:lla.
+projects.portfolio.description: Tehty ensisijaisesti työnhakuun, mutta myös modernin JavaScriptin opetteluun.
+projects.portfolio.learned: Funktionaalinen lähestyminen käyttöliittymiin.
+projects.portfolio.images.view: Portfolio, joka näyttää kuvaa portfoliosta, joka näyttää kuvaa portfoliosta.
+
+projects.atlatl.name: Atlatl
+projects.atlatl.tagLine: >
+  Taustalla ajettava ohjelma, joka valvoo määriteltyjen ohjelmien käyttöä ja lopettaa niiden suorituksen jos niitä
+  käytetään liikaa.
+projects.atlatl.description: >
+  Tehtiin sekä Scalan oppimiseen, että oman pelaamisen vähentämiseen. Ohjelmoitu enimmäkseen olio-ohjelmoinnin
+  tyylisesti, mutta käyttää joitain funktionaalisen ohjelmoinnin konsepteja.
+projects.atlatl.images.tooltip: Tehtäväpalkin ilmaisinalueen ikoni ja vihjelaatikko.
+
+# wordGen project not yet in a presentable state.
+#projects.wordGen.name: WordGen
+#projects.wordGen.tagLine: A console program that generates words based on a language definition.
+#projects.wordGen.description: >
+#  Created to generate words for a fictional language. Programmed in a moderately functional style, with plenty of
+#  anonymous and higher-order functions in use, but without completely isolating side-effects.
+#projects.wordGen.images.output: An example output.
+
+projects.mairionJee.name: Mairion (prototyyppi)
+projects.mairionJee.tagLine: Tehtävien- ja ajanhallinnan sivusto, tehty Spring MVC:llä and JPA:lla.
+projects.mairionJee.description: >
+  Tehtiin harjoitustyönä JavaEE-opintojaksolle toisen opiskelijan kanssa. Ei kuvakaappauksia, koska käyttökokemus ei
+  vaikuttanut arvosanaan ollenkaan, joten siihen käytettiin hyvin vähän aikaa.
+projects.mairionJee.learned: Kommunikaatio on erittäin tärkeä ryhmätyöskentelyssä.
+
+projects.figiFm.name: figi.fm Android-sovellus
+projects.figiFm.tagLine: Android-sovellus keikkojen löytämiseen tarkoitetulle verkkopalvelulle.
+projects.figiFm.description: >
+  Kehitys alkoi viiden opiskelijan tiimillä asiakasprojektina projektihallinnan opintojaksolla. Projektia käytettiin
+  myös harjoitustyönä Android opintojaksolle. Työ jatkui myöhemmin työharjoittelun muodossa kolmen opiskelijan tiimillä.
+projects.figiFm.contribution: >
+  Kommunikaatio palvelimen kanssa, uudelleenkäytettävä keikkalista-käyttöliittymäkomponentti, drawer.
+projects.figiFm.images.home: Päänäkymä
+projects.figiFm.images.profile: Profiilinäkymä
+
+projects.icosaMapper.name: IcosaMapper
+projects.icosaMapper.tagLine: >
+  Roolipelikarttojen tekemiseen tarkoitettu työpöytäsovellus, joka käyttää kolmioita heksojen sijasta.
+projects.icosaMapper.description: >
+  Tehtiin harjoitustyönä Olio-ohjelmoinnin alkeet opintojaksolle toisen opiskelijan kanssa. Työ jatkui myöhemmin yksin
+  harrasteprojektina.
+projects.icosaMapper.contribution: (toisen opiskelijan koodi on enimmäkseen uudelleenkirjoitettu)
+projects.icosaMapper.images.ui: Käyttöliittymä (väliaikaisikonit).
+
+# not particularly relevant
+#projects.website.name: Midianian's
+#projects.website.tagLine: A static website created with XML and XSLT.
+#projects.website.description: My old homepage.
+#projects.website.learned: Declarative programming.
+#projects.website.images.frontPage: Front page.

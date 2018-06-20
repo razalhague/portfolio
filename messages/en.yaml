@@ -1,0 +1,100 @@
+# UI elements
+portfolio.title: Ville Jokela's Portfolio
+icon.email: Send e-mail
+language.fi: Finnish
+language.en: English
+sort.chrono: Chronological
+sort.rel: Relevance
+sort.abc: Alphabetical
+link.homepage: Homepage
+link.repository: Repository
+link.playStore: Play Store
+icon.github: GitHub
+icon.gitlab: GitLab
+icon.googlePlay: Google Play
+icon.home: Homepage
+icon.link: Visit
+icon.language: Language
+icon.gallery: Gallery
+icon.image: Image
+icon.clearTags: Clear tags
+icon.collapseAll: Collapse all
+icon.expandAll: Expand all
+icon.sort: Select sort order
+imageViewer.next: Next
+imageViewer.prev: Previous
+imageViewer.close: Close image viewer
+imageViewer.zoomIn: Zoom in
+imageViewer.zoomOut: Zoom out
+imageViewer.error: Error loading the image.
+project.type.internship: Internship
+project.type.personal: Personal project
+project.type.school: School project
+project.contribution.label: My contribution:
+project.type.label: Type:
+project.years.label: Years:
+project.tags.label: Tags:
+project.learned.label: What I learned from this project:
+
+
+# Project specific messages
+projects.mairionApi.name: Mairion API
+projects.mairionApi.tagLine: A REST backend for a task and time management webservice made with Scala, http4s and Circe.
+projects.mairionApi.description: >
+  Created for my Bachelor's thesis, to examine the benefits of functional programming in a practical project.
+  Programmed in a purely functional style.
+projects.mairionApi.learned: Purely functional programming, RESTful design.
+projects.mairionApi.links.thesis: Thesis
+
+projects.portfolio.name: Portfolio
+projects.portfolio.tagLine: A website made with React/Redux and material-ui.
+projects.portfolio.description: Primarily created for job seeking, but also as an exercise to learn modern JavaScript.
+projects.portfolio.learned: A functional programming approach to UIs.
+projects.portfolio.images.view: The portfolio, showing an image of the portfolio, showing an image of the portfolio.
+
+projects.atlatl.name: Atlatl
+projects.atlatl.tagLine: A background program that monitors application use and terminates them if used too much.
+projects.atlatl.description: >
+  Created both as an exercise to learn Scala, and to restrict the amount of gaming I do. Programmed largely in
+  OOP-style, with some FP concepts used.
+projects.atlatl.images.tooltip: System tray icon and tooltip.
+
+# wordGen project not yet in a presentable state.
+#projects.wordGen.name: WordGen
+#projects.wordGen.tagLine: A console program that generates words based on a language definition.
+#projects.wordGen.description: >
+#  Created to generate words for a fictional language. Programmed in a moderately functional style, with plenty of
+#  anonymous and higher-order functions in use, but without completely isolating side-effects.
+#projects.wordGen.images.output: An example output.
+
+projects.mairionJee.name: Mairion (prototype)
+projects.mairionJee.tagLine: A task and time management website made with Spring MVC and JPA.
+projects.mairionJee.description: >
+  Created as the final project for a JavaEE course with another student. No screenshots, because user experience did
+  not factor into grading at all, so very little time was spent on it.
+projects.mairionJee.learned: Communication is crucial for teamwork.
+
+projects.figiFm.name: figi.fm Android app
+projects.figiFm.tagLine: An Android app for a web service for finding gigs.
+projects.figiFm.description: >
+  Originally started with a team of 5 students as a client project for a project management course, and was used as the
+  final project for an Android course. Work later continued in the form of an internship with a team of 3 students.
+projects.figiFm.contribution: >
+  Communication with the backend API, reusable gig-list UI element, drawer.
+projects.figiFm.images.home: Home screen
+projects.figiFm.images.profile: Profile screen
+
+projects.icosaMapper.name: IcosaMapper
+projects.icosaMapper.tagLine: An RPG map creator desktop app, based on triangles instead of hexes.
+projects.icosaMapper.description: >
+  Created as the final project for an Introduction to OOP course with another student. Continued to work on it alone
+  as a personal project.
+projects.icosaMapper.contribution: (co-author's contributions have largely been rewritten)
+projects.icosaMapper.images.ui: User interface (placeholder icons).
+
+# not particularly relevant
+#projects.website.name: Midianian's
+#projects.website.tagLine: A static website created with XML and XSLT.
+#projects.website.description: My old homepage.
+#projects.website.learned: Declarative programming.
+#projects.website.images.frontPage: Front page.

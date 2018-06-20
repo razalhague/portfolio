@@ -1,0 +1,147 @@
+header:
+  title: portfolio.title
+  links:
+    - url: mailto:ville.jokela@penny-craal.org
+      icon: email
+    - url: https://github.com/razalhague/
+      icon: github
+# nothing public at GitLab
+#    - url: https://gitlab.com/Razalhague/
+#      icon: gitlab
+
+projects:
+  - name: mairionApi
+    years: [ 2018 ]
+    tags: [ Scala, REST, JSON, FP, cats, http4s, sbt ]
+    type: school
+    contribution:
+      text: 100%
+      percent: 100
+    elements: [ learned ]
+    links:
+      - url: https://github.com/razalhague/mairion-api
+        icon: github
+        text: icon.github
+      - url: http://urn.fi/URN:NBN:fi:amk-2018060111935
+        icon: link
+        text: projects.mairionApi.links.thesis
+
+  - name: portfolio
+    years: [ 2018 ]
+    tags: [ HTML, FP, CSS, JS, React, Redux, YAML, npm, material-ui ]
+    type: personal
+    contribution:
+      text: 100%
+      percent: 100
+    elements: [ learned ]
+    icon: portfolio.png
+    images:
+      - title: view
+        file: portfolio.view.png
+    links:
+      - url: https://github.com/razalhague/portfolio
+        icon: github
+        text: icon.github
+
+# project not yet in a presentable state
+#  - name: wordGen
+#    years: [ 2017, 2018 ]
+#    tags: [ Scala, FP, ScalaCheck, sbt ]
+#    type: personal
+#    contribution:
+#      text: 100%
+#      percent: 100
+#    images:
+#      - title: output
+#        file: wordGen.output.png
+#    links:
+#      - url: https://gitlab.com/Razalhague/word-generator
+#        icon: gitlab
+#        text: icon.gitlab
+
+  - name: mairionJee
+    years: [ 2017 ]
+    tags: [ Java, Spring, JPA, maven ]
+    type: school
+    contribution:
+      text: ~95%
+      percent: 95
+    elements: [ learned ]
+    links:
+      - url: https://github.com/razalhague/mairion
+        icon: github
+        text: icon.github
+
+  - name: atlatl
+    years: [ 2017, 2018 ]
+    tags: [ Scala, akka, JSON, maven ]
+    type: personal
+    contribution:
+      text: 100%
+      percent: 100
+    elements: [ ]
+    icon: atlatl.png
+    images:
+      - title: tooltip
+        file: atlatl.tooltip.png
+    links:
+      - url: https://github.com/razalhague/atlatl
+        icon: github
+        text: icon.github
+
+  - name: figiFm
+    years: [ 2015 ]
+    tags: [ Java, Android, REST, JSON ]
+    type: internship
+    contribution:
+      text: ~33%
+      percent: 33
+    elements: [ contributionDescription ]
+    icon: figiFm.png
+    images:
+      - title: home
+        file: figiFm.home.jpg
+      - title: profile
+        file: figiFm.profile.jpg
+    links:
+      - url: https://play.google.com/store/apps/details?id=fm.figi.androidclient
+        icon: googlePlay
+        text: icon.googlePlay
+
+  - name: icosaMapper
+    years: [ 2013, 2016 ]
+    tags: [ Java, Swing, maven ]
+    type: personal
+    contribution:
+      text: ~90%
+      percent: 90
+    elements: [ contributionDescription ]
+    images:
+      - title: ui
+        file: icosaMapper.ui.png
+    links:
+      - url: https://github.com/razalhague/IcosaMapper
+        icon: github
+        text: icon.github
+
+# doesn't seem terribly relevant
+#  - name: website
+#    years: [ 2008 ]
+#    tags: [ HTML, FP, CSS, XML, XSLT ]
+#    type: personal
+#    contribution:
+#      text: 100%
+#      percent: 100
+#    elements: [ learned ]
+#    icon: website.png
+#    images:
+#      - title: frontPage
+#        file: website.frontPage.png
+#    links:
+#      - url: https://gitlab.com/Razalhague/homepage
+#        icon: gitlab
+#        text: icon.gitlab
+#      - url: http://personal.penny-craal.org/midianian/
+#        icon: link
+#        text: icon.link
+
