@@ -90,7 +90,7 @@ projects.icosaMapper.description: >
   Created as the final project for an Introduction to OOP course with another student. Continued to work on it alone
   as a personal project.
 projects.icosaMapper.contribution: (co-author's contributions have largely been rewritten)
-projects.icosaMapper.images.ui: User interface (placeholder icons).
+projects.icosaMapper.images.mainView: User interface (placeholder icons).
 
 # not particularly relevant
 #projects.website.name: Midianian's

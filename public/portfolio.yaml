@@ -117,8 +117,8 @@ projects:
       percent: 90
     elements: [ contributionDescription ]
     images:
-      - title: ui
-        file: icosaMapper.ui.png
+      - title: mainView
+        file: icosaMapper.mainView.png
     links:
       - url: https://github.com/razalhague/IcosaMapper
         icon: github
